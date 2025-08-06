@@ -13,7 +13,6 @@ public class HomePage {
         this.driver = driver;
     }
 
-    //LoginPage log=new LoginPage(driver);
     private By addcart1=By.id("add-to-cart-sauce-labs-backpack");
     private By addcart2=By.id("add-to-cart-sauce-labs-bike-light");
     private By addcart3= By.id("add-to-cart-test.allthethings()-t-shirt-(red)");
